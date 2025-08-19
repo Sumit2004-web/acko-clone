@@ -642,6 +642,7 @@ footer{
 @media (max-width: 800px) {
   body {
     width: 100%;
+    overflow-x:hidden;
   }
   .coming{
     display: none;
@@ -800,4 +801,5 @@ footer{
   .grid2{
     row-gap: 30px;
   }
+
 }
